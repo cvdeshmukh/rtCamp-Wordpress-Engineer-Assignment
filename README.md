@@ -1,4 +1,4 @@
-This repo contains wordpress theme assignment created for the rtCamp Solutions Pvt. Ltd. as Assignment
+# This repo contains wordpress theme assignment created for the rtCamp Solutions Pvt. Ltd. as Assignment
 
 # The theme I used here is _score which you can find here if you want:
 https://underscores.me/
@@ -24,10 +24,13 @@ http://wordpress-assignment-rtcamp.000webhostapp.com
 This are the screentshots of this theme
 
 ![Alt text](https://github.com/Harsh-Ajudia/rtCamp-Wordpress-Engineer-Assignment/blob/master/screens/1.PNG "Screen one")
+Screen one
 
 ![Alt text](https://github.com/Harsh-Ajudia/rtCamp-Wordpress-Engineer-Assignment/blob/master/screens/2.PNG "Screen two")
+Screen two
 
 ![Alt text](https://github.com/Harsh-Ajudia/rtCamp-Wordpress-Engineer-Assignment/blob/master/screens/3.PNG "Screen three")
+Screen three
 
 /////////////////////////////_s starter theme for wordpress/////////////////////////////////////////////////////////////////////////
 
