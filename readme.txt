@@ -1,3 +1,21 @@
+This repo contains wordpress theme assignment created for the rtCamp Solutions Pvt. Ltd. as Assignment
+
+The theme I used here is _score which you can find here if you want:
+
+The plugins I used for this assignment are: https://underscores.me/
+
+recent-posts-by-category-widget
+The images I used are either copyrighted by the following and are obtained by open source license or Creative Commons Zero License
+
+rtCamp Solutions Pvt. Ltd.
+Pexels http://www.pexels.com
+The theme is constructed as per the requirement by the rtCamp Company under Wordpress engineer Assignment: https://careers.rtcamp.com/wordpress-engineer/assignment/
+
+The demo for this theme can be found here:
+
+wordpress-assignment-rtcamp.000webhostapp.com
+
+*_s starter theme for wordpress*
 === _s ===
 
 Contributors: automattic
